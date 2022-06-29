@@ -22,7 +22,7 @@ Open the project with your favorite IDE and start it.
 
 ## API Reference
 
-#### Post a message to rabbitmq-topic "Example"
+#### Post a message to queue
 ```PORT
  localhost:9000
 ```
